@@ -16,7 +16,7 @@ export default function OrderSuccessScreen({ navigation }: any) {
 
                 <View style = {styles.orderBox}>
                     <Text style = {styles.orderText}>Order ID:</Text>
-                    <Text style = {styles.orderId}>#A1B2C3</Text>
+                    <Text style = {styles.orderId}>#M0T1K2</Text>
                 </View>
 
                 <TouchableOpacity style = {styles.button} onPress = {() => navigation.navigate("Home")}>
